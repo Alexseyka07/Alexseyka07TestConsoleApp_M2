@@ -10,7 +10,8 @@ namespace Alexseyka07TestConsoleApp_M2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Vlad!");
+            Console.WriteLine("Hello Boris!");
+            Console.WriteLine("Пока Vlad");
             Console.ReadLine();
         }
     }

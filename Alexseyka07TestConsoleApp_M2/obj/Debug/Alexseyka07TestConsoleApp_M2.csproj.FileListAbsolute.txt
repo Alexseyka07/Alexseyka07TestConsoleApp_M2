@@ -1,0 +1,8 @@
+C:\Users\Леша\source\repos\Alexseyka07TestConsoleApp_M2\Alexseyka07TestConsoleApp_M2\bin\Debug\Alexseyka07TestConsoleApp_M2.exe.config
+C:\Users\Леша\source\repos\Alexseyka07TestConsoleApp_M2\Alexseyka07TestConsoleApp_M2\bin\Debug\Alexseyka07TestConsoleApp_M2.exe
+C:\Users\Леша\source\repos\Alexseyka07TestConsoleApp_M2\Alexseyka07TestConsoleApp_M2\bin\Debug\Alexseyka07TestConsoleApp_M2.pdb
+C:\Users\Леша\source\repos\Alexseyka07TestConsoleApp_M2\Alexseyka07TestConsoleApp_M2\obj\Debug\Alexseyka07TestConsoleApp_M2.csproj.AssemblyReference.cache
+C:\Users\Леша\source\repos\Alexseyka07TestConsoleApp_M2\Alexseyka07TestConsoleApp_M2\obj\Debug\Alexseyka07TestConsoleApp_M2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Леша\source\repos\Alexseyka07TestConsoleApp_M2\Alexseyka07TestConsoleApp_M2\obj\Debug\Alexseyka07TestConsoleApp_M2.csproj.CoreCompileInputs.cache
+C:\Users\Леша\source\repos\Alexseyka07TestConsoleApp_M2\Alexseyka07TestConsoleApp_M2\obj\Debug\Alexseyka07TestConsoleApp_M2.exe
+C:\Users\Леша\source\repos\Alexseyka07TestConsoleApp_M2\Alexseyka07TestConsoleApp_M2\obj\Debug\Alexseyka07TestConsoleApp_M2.pdb

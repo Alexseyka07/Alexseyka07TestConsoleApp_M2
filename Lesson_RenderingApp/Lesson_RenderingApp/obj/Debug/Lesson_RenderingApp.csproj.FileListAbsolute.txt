@@ -1,0 +1,16 @@
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\bin\Debug\Lesson_RenderingApp.exe.config
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\bin\Debug\Lesson_RenderingApp.exe
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\bin\Debug\Lesson_RenderingApp.pdb
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp.csproj.AssemblyReference.cache
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\MainWindow.g.cs
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\App.g.cs
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp_MarkupCompile.cache
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp_MarkupCompile.lref
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\MainWindow.baml
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp.g.resources
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp.Properties.Resources.resources
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp.csproj.GenerateResource.cache
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp.csproj.CoreCompileInputs.cache
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp.exe
+C:\Users\Леша\source\repos\Lesson_RenderingApp\Lesson_RenderingApp\obj\Debug\Lesson_RenderingApp.pdb

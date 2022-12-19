@@ -1,0 +1,16 @@
+C:\Users\Леша\source\repos\AddElimen\AddElimen\bin\Debug\AddElimen.exe.config
+C:\Users\Леша\source\repos\AddElimen\AddElimen\bin\Debug\AddElimen.exe
+C:\Users\Леша\source\repos\AddElimen\AddElimen\bin\Debug\AddElimen.pdb
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen.csproj.AssemblyReference.cache
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\MainWindow.g.cs
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\App.g.cs
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen_MarkupCompile.cache
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen_MarkupCompile.lref
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\MainWindow.baml
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen.g.resources
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen.Properties.Resources.resources
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen.csproj.GenerateResource.cache
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen.csproj.CoreCompileInputs.cache
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen.exe
+C:\Users\Леша\source\repos\AddElimen\AddElimen\obj\Debug\AddElimen.pdb

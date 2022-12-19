@@ -1,0 +1,10 @@
+C:\Users\Леша\source\repos\блоха\блоха\bin\Debug\блоха.exe.config
+C:\Users\Леша\source\repos\блоха\блоха\bin\Debug\блоха.exe
+C:\Users\Леша\source\repos\блоха\блоха\bin\Debug\блоха.pdb
+C:\Users\Леша\source\repos\блоха\блоха\obj\Debug\блоха.csproj.AssemblyReference.cache
+C:\Users\Леша\source\repos\блоха\блоха\obj\Debug\блоха.Form1.resources
+C:\Users\Леша\source\repos\блоха\блоха\obj\Debug\блоха.Properties.Resources.resources
+C:\Users\Леша\source\repos\блоха\блоха\obj\Debug\блоха.csproj.GenerateResource.cache
+C:\Users\Леша\source\repos\блоха\блоха\obj\Debug\блоха.csproj.CoreCompileInputs.cache
+C:\Users\Леша\source\repos\блоха\блоха\obj\Debug\блоха.exe
+C:\Users\Леша\source\repos\блоха\блоха\obj\Debug\блоха.pdb
